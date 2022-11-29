@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cloudmill-public/build/static/css/main.6f603a3d.css",
-    "main.js": "/cloudmill-public/build/static/js/main.978b99c0.js",
+    "main.css": "/cloudmill-public/build/static/css/main.a16d61d6.css",
+    "main.js": "/cloudmill-public/build/static/js/main.764b562d.js",
     "static/media/showreel.mp4": "/cloudmill-public/build/static/media/showreel.bb6ee296ee53ac959ca5.mp4",
     "static/media/cloudmill-bg-2-mob.mp4": "/cloudmill-public/build/static/media/cloudmill-bg-2-mob.883e0260ffdc113d4459.mp4",
     "static/media/cloudmill-bg-2.mp4": "/cloudmill-public/build/static/media/cloudmill-bg-2.0d2af3b6dcc63c8799a8.mp4",
@@ -16,12 +16,12 @@
     "static/media/chl.svg": "/cloudmill-public/build/static/media/chl.0496c63fb004bbec217210fb0dd4f7b7.svg",
     "static/media/chl.webp": "/cloudmill-public/build/static/media/chl.db436509ced0efcf720a.webp",
     "static/media/chl.jpg": "/cloudmill-public/build/static/media/chl.073ffa152d3f119f08ea.jpg",
+    "static/media/AeonikPro-Regular.woff": "/cloudmill-public/build/static/media/AeonikPro-Regular.e5f0ae5488aa0a919d9b.woff",
     "static/media/rublevsky.svg": "/cloudmill-public/build/static/media/rublevsky.b37c6350309d903892113f902fa03f06.svg",
     "static/media/theatre.svg": "/cloudmill-public/build/static/media/theatre.4a023bcd7d0b716c2984711ca083fedb.svg",
     "static/media/gel4u_2x.jpg": "/cloudmill-public/build/static/media/gel4u_2x.694d402a30542f9d7d8f.jpg",
     "static/media/gel4u_2x.webp": "/cloudmill-public/build/static/media/gel4u_2x.600acfd56f9796f6dea2.webp",
     "static/media/milk-factory.svg": "/cloudmill-public/build/static/media/milk-factory.bb903c6d44696e49a8ea76b82715b125.svg",
-    "static/media/AeonikPro-Regular.otf": "/cloudmill-public/build/static/media/AeonikPro-Regular.eb9920f48eee6c7d8679.otf",
     "static/media/akvasink_2x.jpg": "/cloudmill-public/build/static/media/akvasink_2x.6442cc7a928a9f9a2c28.jpg",
     "static/media/gel4u.jpg": "/cloudmill-public/build/static/media/gel4u.eb4a93c14e4f269fa60e.jpg",
     "static/media/scandinavia.svg": "/cloudmill-public/build/static/media/scandinavia.c3e31ed3b209eefa4f207a7dcfbf7ee3.svg",
@@ -58,11 +58,11 @@
     "static/media/award-3.svg": "/cloudmill-public/build/static/media/award-3.e9136c8fa75fb2356e83600d3b8595f7.svg",
     "static/media/cross.svg": "/cloudmill-public/build/static/media/cross.130d37c91e36b74fae8c101f362d6e62.svg",
     "static/media/play.svg": "/cloudmill-public/build/static/media/play.a8b45ca2e92cf1c54278db2be67c9f02.svg",
-    "main.6f603a3d.css.map": "/cloudmill-public/build/static/css/main.6f603a3d.css.map",
-    "main.978b99c0.js.map": "/cloudmill-public/build/static/js/main.978b99c0.js.map"
+    "main.a16d61d6.css.map": "/cloudmill-public/build/static/css/main.a16d61d6.css.map",
+    "main.764b562d.js.map": "/cloudmill-public/build/static/js/main.764b562d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f603a3d.css",
-    "static/js/main.978b99c0.js"
+    "static/css/main.a16d61d6.css",
+    "static/js/main.764b562d.js"
   ]
 }
